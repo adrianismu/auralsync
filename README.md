@@ -82,33 +82,6 @@ npm run dev
 4. **Sync**: Use the +/- buttons if subtitles need adjustment
 5. **Enjoy**: Click subtitle lines to seek, use keyboard shortcuts for control
 
-## 📚 Documentation
-
-- **[USAGE.md](USAGE.md)** - Comprehensive user guide with tips and tricks
-- **[FEATURES.md](FEATURES.md)** - Technical implementation details
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Guidelines for contributors
-- **[PROJECT-SUMMARY.md](PROJECT-SUMMARY.md)** - Complete project overview
-
-## 🎯 Use Cases
-
-### 📖 Audiobooks
-
-- Follow along with synchronized text
-- Adjust playback speed for comprehension
-- Click lines to re-listen to important passages
-
-### 🎭 Audio Dramas
-
-- Synchronized dialogue and descriptions
-- Atmospheric visuals enhance the experience
-- Easy navigation between scenes
-
-### 🎵 Music with Lyrics
-
-- Karaoke mode with line-by-line display
-- Support for timed lyrics (LRC format)
-- Click lines to repeat favorite verses
-
 ## 🛠️ Tech Stack
 
 | Technology                                      | Purpose                        |
